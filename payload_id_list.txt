@@ -80,3 +80,4 @@
 # IDs for 32-byte payloads
 256, 4FSKTEST-V2
 257, OH3VHH-4FSK-V2
+258, LY2BAW-4FSK
